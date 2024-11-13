@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohandate
 - 👀 I’m interested in AI and ML.
-- 🌱 I’m currently learning DSA in python.
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on anything based around python.
 - 📫 How to reach me mail:@daterohan1@gmail.com
 
